@@ -6,6 +6,6 @@ Este repositorio tiene la finalidad de explicar **(con videos 🎥)** el pensami
 
 ## ALURA ENCRIPTADOR - [código](./encrypt-decrypt/index.html)
 
-<a href='https://youtu.be/-Z_yGOZhuDE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-Z_yGOZhuDE/mqdefault.jpg' alt='Alura Challenges  - Encriptador' />
+<a href='https://youtu.be/uf12sHvBA04' target='_blank'>
+  <img width='50%' src='https://img.youtube.com/vi/uf12sHvBA04/mqdefault.jpg' alt='Alura Challenges  - Encriptador' />
 </a>
